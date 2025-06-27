@@ -1,0 +1,12 @@
+{
+    "lstm_hidden_size": 238,
+    "lstm_num_layers": 1,
+    "lstm_dropout": 0.3969672955191136,
+    "n_dense_layer": 1,
+    "dense_0_output_size": 399,
+    "dense_0_dropout_rate": 9.031539413349027e-05,
+    "Optimizer": "AdamW",
+    "Learning_rate": 0.00020427127879395579,
+    "sgd_momentum": 0.12486750613691898,
+    "adamw_weight_decay": 0.0006848541624989974
+}

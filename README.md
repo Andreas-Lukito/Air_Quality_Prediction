@@ -8,7 +8,7 @@ The model was fine-tuned with **Optuna** to optimize hyperparameters, achieving 
 ## ✨ Features
 - LSTM model trained on historical air quality data (past 5 hours → next 1 hour prediction).  
 - Automated hyperparameter tuning with Optuna.  
-- Evaluation with R² score, MAE, and RMSE. 
+- Evaluation with R² score, MAE, and MSE. 
 
 ---
 
